@@ -1,6 +1,6 @@
 # Addressing SOL Pass Rates in Virginia
 
-This project explores SOL (Standards of Learning) pass rates in Virginia using machine learning techniques such as regression and clustering. It includes an IPython notebook file and a final report prepared for a machine learning class at college.
+This project explores SOL (Standards of Learning) pass rates in Virginia using machine learning techniques such as regression and clustering. It includes a Jupyter Notebook file and a final report prepared for a machine learning class at college.
 
 ## Overview
 
